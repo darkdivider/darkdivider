@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darkdivider
-- 👀 I’m interested in Algorithms.
+- 👀 I’m interested in Algorithms & Deep Learning.
 - 🌱 I’m currently learning Machine Learning & Cloud Technology.
 - 💞️ I’m looking to collaborate on Machine Learning Systems.
 - 📫 How to reach me nair.2@iitj.ac.in
